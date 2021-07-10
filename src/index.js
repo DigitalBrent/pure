@@ -117,6 +117,8 @@ registerBlockType('pureblocks/custom-cta', {
                 </panelBody>
             </InspectorControls>,
 
+            // ========== Start Editor Visual Block ==========
+
             <div className="cta-container" style={{
                 backgroundImage: `url(${backgroundImage})`,
                 backgroundSize: 'cover',

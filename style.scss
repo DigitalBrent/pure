@@ -1,0 +1,91 @@
+/*
+Theme Name: Pure Theme
+Author: DigitalBrent
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Variables
+# Normalize
+# Typography
+	## Headings
+	## Copy
+# Elements
+	## Lists
+	## Tables
+# Forms
+	## Buttons
+	## Fields
+# Navigation
+	## Links
+	## Menus
+	## Next & Previous
+# Accessibility
+# Alignments
+# Clearings
+# Layout
+# Widgets
+# Content
+	## Archives
+	## Posts and pages
+	## Comments
+# Blocks
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+// @import "scss/variables-site/variables-site";
+// @import "scss/mixins/mixins-master";
+
+/* Normalize */
+
+// @import "scss/normalize";
+
+/* Typography */
+
+// @import "scss/typography/typography";
+
+/* Elements */
+
+// @import "scss/elements/elements";
+
+/* Forms */
+
+// @import "scss/forms/forms";
+
+/* Navigation */
+
+// @import "scss/navigation/navigation";
+
+/* Accessibility */
+
+// @import "scss/modules/accessibility";
+
+/* Alignments */
+
+// @import "scss/modules/alignments";
+
+/* Clearings */
+
+// @import "scss/modules/clearings";
+
+/* Layout */
+
+// @import "scss/layout/layout";
+
+/* Content */
+
+// @import "scss/site/site";
+
+/* Widgets */
+
+// @import "scss/site/secondary/widgets";
+
+/* Blocks */
+
+@import "scss/blocks/blocks";
+
+/* Media */
+
+// @import "scss/media/media";

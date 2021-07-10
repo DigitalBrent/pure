@@ -1,5 +1,51 @@
-@charset "UTF-8";
-
 /*
-Theme Name: Pure
+Theme Name: Pure Theme
+Author: DigitalBrent
 */
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Variables
+# Normalize
+# Typography
+	## Headings
+	## Copy
+# Elements
+	## Lists
+	## Tables
+# Forms
+	## Buttons
+	## Fields
+# Navigation
+	## Links
+	## Menus
+	## Next & Previous
+# Accessibility
+# Alignments
+# Clearings
+# Layout
+# Widgets
+# Content
+	## Archives
+	## Posts and pages
+	## Comments
+# Blocks
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+/* Normalize */
+/* Typography */
+/* Elements */
+/* Forms */
+/* Navigation */
+/* Accessibility */
+/* Alignments */
+/* Clearings */
+/* Layout */
+/* Content */
+/* Widgets */
+/* Blocks */
+/* Media */
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7O0NBR0M7QUFDRDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OzsrREErQitEO0FBQy9ELGNBQWM7QUFDZCxlQUFlO0FBQ2YsYUFBYTtBQUNiLFVBQVU7QUFDVixlQUFlO0FBQ2Ysa0JBQWtCO0FBQ2xCLGVBQWU7QUFDZixjQUFjO0FBQ2QsV0FBVztBQUNYLFlBQVk7QUFDWixZQUFZO0FBQ1osV0FBVztBQUNYLFVBQVUiLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLypcblRoZW1lIE5hbWU6IFB1cmUgVGhlbWVcbkF1dGhvcjogRGlnaXRhbEJyZW50XG4qL1xuLyotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxuPj4+IFRBQkxFIE9GIENPTlRFTlRTOlxuLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxuIyBWYXJpYWJsZXNcbiMgTm9ybWFsaXplXG4jIFR5cG9ncmFwaHlcblx0IyMgSGVhZGluZ3Ncblx0IyMgQ29weVxuIyBFbGVtZW50c1xuXHQjIyBMaXN0c1xuXHQjIyBUYWJsZXNcbiMgRm9ybXNcblx0IyMgQnV0dG9uc1xuXHQjIyBGaWVsZHNcbiMgTmF2aWdhdGlvblxuXHQjIyBMaW5rc1xuXHQjIyBNZW51c1xuXHQjIyBOZXh0ICYgUHJldmlvdXNcbiMgQWNjZXNzaWJpbGl0eVxuIyBBbGlnbm1lbnRzXG4jIENsZWFyaW5nc1xuIyBMYXlvdXRcbiMgV2lkZ2V0c1xuIyBDb250ZW50XG5cdCMjIEFyY2hpdmVzXG5cdCMjIFBvc3RzIGFuZCBwYWdlc1xuXHQjIyBDb21tZW50c1xuIyBCbG9ja3NcbiMgTWVkaWFcblx0IyMgQ2FwdGlvbnNcblx0IyMgR2FsbGVyaWVzXG4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovXG4vKiBOb3JtYWxpemUgKi9cbi8qIFR5cG9ncmFwaHkgKi9cbi8qIEVsZW1lbnRzICovXG4vKiBGb3JtcyAqL1xuLyogTmF2aWdhdGlvbiAqL1xuLyogQWNjZXNzaWJpbGl0eSAqL1xuLyogQWxpZ25tZW50cyAqL1xuLyogQ2xlYXJpbmdzICovXG4vKiBMYXlvdXQgKi9cbi8qIENvbnRlbnQgKi9cbi8qIFdpZGdldHMgKi9cbi8qIEJsb2NrcyAqL1xuLyogTWVkaWEgKi9cbiJdfQ== */
